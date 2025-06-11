@@ -31,3 +31,7 @@ Mỗi Bản tin có các trường sau:
 3. Phân loại
 4. Content
 5. Tác giả: (relationship->Giảng viên)
+
+## Quản trị quan hệ
+
+Bản tin còn có thể xuất hiện trên trang hợp tác chuyên môn, do đó bản tin có liên kết với dạng nội dung này.

@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu
+
+Tài liệu sau đây được viết dành cho quản trị viên của website.
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
