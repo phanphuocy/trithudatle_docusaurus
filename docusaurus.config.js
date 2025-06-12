@@ -93,7 +93,7 @@ const config = {
             position: "left",
             label: "Cấu trúc thông tin",
           },
-          { to: "/devlog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
